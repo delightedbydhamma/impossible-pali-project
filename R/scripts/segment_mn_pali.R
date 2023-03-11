@@ -5,6 +5,7 @@
 library(dplyr)
 library(purrr)
 library(stringr)
+library(tidyr)
 library(vroom)
 library(tidytext)
 
