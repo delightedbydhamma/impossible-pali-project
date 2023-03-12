@@ -51,7 +51,7 @@ Offline first and low spec: suitable for monastics and people who live simple li
 	- Creaete 200 x audio PI
 	- Create 200 x audio EN
 	- Word IDs to match PI and EN audio files.
-	- Export and CSV and import to Anki - **DONE**
+	- Export and CSV and import to Anki - **DONE** https://ankiweb.net/decks/share/1678078923937
 2. Make 50 phrase cards with audio for Anki ~~(Based on SC-voice segments).~~ Using X-SAMPA via AWS Polly or GCloud TTS
 3. Simplify phrase cards  further to make  lower-level cards. 
 4. Build 6 basic game screens in HTML
