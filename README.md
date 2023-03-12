@@ -1,7 +1,7 @@
 # impossible-pali-project
 
-# Design Brief #
-aka Ven. Pasanna's initial idea.
+# Design Brief -aka Ven. Pasanna's initial idea. #
+
 Create a Pāḷī learning app with emphasis on 'natural', auditory, learning.  The app will  use phrases which frequently occur in the sutta pitaka.
 
 This app will set itself apart from other resources which focus on grammar tables and written learning.
