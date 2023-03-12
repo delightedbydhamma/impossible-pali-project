@@ -2,7 +2,8 @@
 
 # Design Brief -aka Ven. Pasanna's initial idea. #
 
-Create a Pāḷī learning app with emphasis on 'natural', auditory, learning.  The app will  use phrases which frequently occur in the sutta pitaka.
+Create a Pāḷī learning app with emphasis on 'natural', auditory, learning.  
+The app will  use phrases which frequently occur in the sutta pitaka.
 
 This app will set itself apart from other resources which focus on grammar tables and written learning.
 
@@ -33,7 +34,7 @@ Offline first and low spec: suitable for monastics and people who live simple li
 - Characters (monastic and lay) to 'read' the phrases.
 - Icons for progress board, scoring system etc.
 
-## Learning Methodology##
+## Learning Methodology ##
 - Learn by play
 - Use only words and phrases frequently found in the suttas
 - Introduce around 5–10 words per level 
@@ -61,14 +62,12 @@ Offline first and low spec: suitable for monastics and people who live simple li
 	5. Pronounciation of Phonemes: What do you here 3x syllables ie 'ña' 'na' 'nu'
 	6. Fill in the missing letters (sneaky grammar!) Samano Buddh__ puccha__ (the recluse questions the Buddha). Janā__ (I know)
 7. All exercises to have dropdown answers based in PI lookups.
-8. 
-![[44CEA594-F322-4BBC-AD3F-C3D7AD428998.png]]![Pasted image 20220523124934.png]]![[C56AA3E1-0668-4912-92E5-6EC670A7D11F.png]]![[A82CF493-4C5E-4763-B407-4664070C8D1D.png]]![[9CCF74B0-1CDA-47D4-B93D-85475F452475.png]]
-![[96F677E5-9E81-4AD9-9D13-99AB369C76B1.png]]
 
-## Idea of sentence progresions
+## Idea of sentence progresions ##
 
-Taṁ kiṁ maññasi, mahārāja
-What do you think, great king?
+> Taṁ kiṁ maññasi, mahārāja  
+> What do you think, great king?
+
 1. king, great
 2. Great King
 3. The king thinks
@@ -76,37 +75,40 @@ What do you think, great king?
 5. What do you think?
 6. Sādhu!
 
-I said  vadāmi
-upasankamitvā evaṁ vadāmi
+> I said  vadāmi  
+> upasankamitvā evaṁ vadāmi
 
-Puna caparāhaṁ (ca para ahaṃ), bhikkhave, te nigaṇṭhe evaṁ vadāmi: ‘taṁ kiṁ maññatha, āvuso nigaṇṭhā MN 101
-Furthermore (again, and another I) I said (this) to these (pl) Jain ascetics: What do you think Venerables Jains.
+> Puna caparāhaṁ (ca para ahaṃ), bhikkhave, te nigaṇṭhe evaṁ vadāmi: ‘taṁ kiṁ maññatha, āvuso nigaṇṭhā MN 101  
+> Furthermore (again, and another I) I said (this) to these (pl) Jain ascetics: What do you think Venerables Jains.
 
->No hidaṃ bhante
+> No hidaṃ bhante  
 > No we don't, Venerable Sir
 
-Seyyathāpi, āvuso nigaṇṭhā, puriso sallena viddho (pp vijjhati)
-Suppose, venerables Jains, a man was struck by a dart.
-A man was struck by a dart. Puriso sallena viddho
+> *Seyyathāpi, āvuso nigaṇṭhā, puriso sallena viddho (pp vijjhati)*  
+> Suppose, venerables Jains, a man was struck by a dart.  
+> A man was struck by a dart. *Puriso sallena viddho*
 
---- Find the most common declensions of pp, gerund etc and use words from that declension first. E.g hatvā, disvā,  gahetvā rather than ...anna 
+--- Find the most common declensions of pp, gerund etc and use words from that declension first.   
+E.g hatvā, disvā,  gahetvā rather than ...anna   
 
-Buddhaṃ saraṇaṃ gacchāmi
-Natthi me saranam annaṃ
-Buddho me saranam varaṃ
-Etena sacca vajjena. 
-Hotu me sabbāda
+Resource: Digital Pali Dictionary https://digitalpalidictionary.github.io/features.html#declension%E2%80%93conjugation
 
-Atha kho bhagavā sāyanhasamayaṁ nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghenayena āvasathāgāraṁ tenupasaṅkami
+> Buddhaṃ saraṇaṃ gacchāmi  
+> Natthi me saranam annaṃ  
+> Buddho me saranam varaṃ  
+> Etena sacca vajjena.  
+> Hotu me sabbāda
 
-Bhagavā nivāsetvā patta cīvaraṃ ādādaya āvasathāgāraṃ tenupasaṅkami
-The Blesed one, having dressed, taking his bowl and robe, approached the rest house.
+> Atha kho bhagavā sāyanhasamayaṁ nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghenayena āvasathāgāraṁ tenupasaṅkami
 
-Bhagavā agāraṃ upasaṅkami
-The blessed one approached the house.
+> Bhagavā nivāsetvā patta cīvaraṃ ādādaya āvasathāgāraṃ tenupasaṅkami  
+> The Blesed one, having dressed, taking his bowl and robe, approached the rest house.
 
-Atha kho, āyasmā sañjīvo tassā rattiyā accayenatāya samāpattiyā vuṭṭhahitvā cīvarānipapphoṭetvā pubbaṇhasamayaṁ nivāsetvāpattacīvaramādāya gāmaṁ piṇḍāya pāvisi
+> Bhagavā agāraṃ upasaṅkami  
+> The blessed one approached the house.
 
-Āyasmā sañjīvo gāmaṃ piṇḍāya pāvisi.
-Venerable Sañjīva entered the village for alms.
+> Atha kho, āyasmā sañjīvo tassā rattiyā accayenatāya samāpattiyā vuṭṭhahitvā cīvarānipapphoṭetvā pubbaṇhasamayaṁ nivāsetvāpattacīvaramādāya gāmaṁ piṇḍāya pāvisi
+
+> Āyasmā sañjīvo gāmaṃ piṇḍāya pāvisi.  
+> Venerable Sañjīva entered the village for alms.  
 MN50
