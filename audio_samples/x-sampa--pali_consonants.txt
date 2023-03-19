@@ -1,0 +1,52 @@
+<speak>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="k@_o">ka</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="k_h@_o">kha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="g@_o">ga</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="g_h@_o">gha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="6_~::N:">ṇ</phoneme></prosody>
+
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="tS@_o">ca</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="tS_h@_o">cha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="dZ@_o">ga</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="dZ_h@_o">gha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="J@_o">ña</phoneme></prosody>
+
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="t`@_o">ṭa</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="t`_h@_o">ṭha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="d'@_o">ḍa</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="d'_h@_o">ḍha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="n'@_o">ṇa</phoneme></prosody>
+
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="t_d@_o">ta</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="t_d_h@_o">tha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="d_d@_o">da</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="d_d_h@_o">dha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="n@_o">na</phoneme></prosody>
+
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="p@_o">pa</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="p_h@_o">pha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="b@_o">ba</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="b_h@_o">bha</phoneme></prosody>
+<break time="3s"/>
+<prosody rate="slow"><phoneme alphabet="x-sampa" ph="m@_o">ma</phoneme></prosody>
+
+</speak>

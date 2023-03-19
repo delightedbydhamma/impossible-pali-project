@@ -17,7 +17,7 @@ pali_mn_data <- vroom("https://raw.githubusercontent.com/chaz23/sutta-science/ma
 
 # Segment text. ----
 
-pli_stop_words <- c("bhikkave", "bho", "avuso", '"ti')
+pli_stop_words <- c("bhikkave", "bho", "avuso", "blo", "kho", '"ti')
 
 pali_mn_data %>% 
   
@@ -43,7 +43,7 @@ pali_mn_data %>%
   # mutate(str_replace_all(text, ", [A-Z][a-z]+,", "")) %>% 
   
   # Split into phrases.
-  unnest_tokens(phrase, text, token = "regex", pattern = "([,.—?;:])") %>% 
+  unnest_tokens(phrase, text, token = "regex", pattern = "([.—?;:])") %>% 
   
   # Trim whitespace.
   mutate(phrase = str_trim(phrase)) %>% 
@@ -54,9 +54,13 @@ pali_mn_data %>%
   # Remove phrases with " ... " or "...pe...".
   filter(!str_detect(phrase, "(\U2026pe|\U2026)")) %>% 
   
+  # Remove phrases with pli_stop_words
+  #filter(!str_detect(phrase, "pli_stop_words")) %>% 
+  
+  
   # Remove quotes.
   mutate(phrase = str_replace_all(phrase, "(\"|“|”|‘|’)", "")) %>% 
   
-  count(phrase, sort = TRUE)
+ count(phrase, sort = TRUE)
 
 
