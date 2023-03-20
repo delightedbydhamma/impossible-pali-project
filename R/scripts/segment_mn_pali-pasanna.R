@@ -61,6 +61,8 @@ pali_mn_data %>%
   # Remove quotes.
   mutate(phrase = str_replace_all(phrase, "(\"|“|”|‘|’)", "")) %>% 
   
- count(phrase, sort = TRUE)
+ 
 
+  count(phrase, sort = TRUE) %>%
+  View()
 
