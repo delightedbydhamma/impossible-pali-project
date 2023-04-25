@@ -1,0 +1,89 @@
+<speak>
+<prosody rate="x-slow">
+
+
+अथa खो <phoneme alphabet="ipa" ph="əɳ.ɳə.t̪ə.ɾoː"></phoneme> भिक्खु उट्ठायासना एकंसं चीवरं कत्वा<break time="0.1s"/>
+ येनa भगवा तेनञ्जलिं पणामेत्वा भगवन्तं <phoneme alphabet="ipa" ph="eːt̪əd̪əʋoːt͡ʃə:"></phoneme>: 
+<break time="1s"/>
+<amazon:breath/>
+पुच्छेय्याहं, <amazon:breath/>भन्ते,
+<amazon:breath/>
+ भगवन्तं <phoneme alphabet="ipa" ph="'kɪɳ.t͡ʃɪ.d̪eːʋəː"></phoneme> देसं, 
+<amazon:breath/>
+सचे मे भगवा ओकासं करोति <phoneme alphabet="ipa" ph="''pəɳ.ɦəs̪.s̪ə ʋeːj.jɑː.kə.ɾə.ɳɑːjɑː"></phoneme>”t̪ɪ<amazon:breath/>
+<break time="1s"/>
+तेनa हि त्वं, 
+<break time="0.5s"/>
+<amazon:breath/>
+भिक्खु, 
+<amazon:breath/>
+सके आसने निसीदित्वा पुच्छa यदाकङ्खसी”ति<amazon:breath/>।<amazon:breath/>
+
+</prosody>
+</speak>
+
+<speak>
+<prosody rate="slow">
+अथa खो सो भिक्खु सके आसने निसीदित्वा भगवन्तं
+<phoneme alphabet="x-sampa" ph="e:t_d@d_d@v\o:tS@:"></phoneme>
+<break time="1s"/><amazon:breath/>
+
+</prosody>
+</speak>
+
+<speak>
+<prosody rate="x-slow">
+अथa खो सो भिक्खु सके<break time=".1s"/> आसने निसीदित्वा भगवन्तं <phoneme alphabet="x-sampa" ph="e:t_d@d_d@v\o:tS@:"></phoneme>
+<break time="1s"/><amazon:breath/>
+इमे नु खो, भन्ते, <amazon:breath/>
+<phoneme alphabet="x-sampa" ph="p@N.tSu.pA:.d_dA:.n_d@k.k_h@n_d.d_d_hA:"></phoneme><amazon:breath/>
+, सेय्यथिदं
+</prosody>
+</speak>
+
+<!-- list of khandas -->
+<speak>
+<prosody rate="slow">
+<phoneme alphabet="x-sampa" ph="4u:pupA:d_dA:n_d@k.k_h@n_dd_d_ho:"></phoneme>
+
+<phoneme alphabet="x-sampa" ph=" v\e:d_d@nupA:d_dA:n_d@k.k_h@n_dd_d_ho:"></phoneme>
+, <amazon:breath/>
+<phoneme alphabet="x-sampa" ph="s_d@N.Ju.pA:d_dA:n_d@kk_h@n_dd_d_ho:"></phoneme> 
+, <amazon:breath/>
+<phoneme alphabet="x-sampa" ph="s_d@Nk_hA:4upA:d_dA:n_d@k.k_h@n_dd_d_ho:"></phoneme>
+, <amazon:breath/>
+<phoneme alphabet="x-sampa" ph=" v\IJJA:n`upA:d_dA:n_d@k.k_h@n_dd_d_ho: tI"></phoneme>?
+</prosody>
+</speak>
+
+
+<speak>
+<prosody rate="x-slow">
+<break time="1s"/><amazon:breath/>
+तंयेवa नु खो, भन्ते, उपादानं ते pañcupādānakkhandhā,<amazon:breath/> उदाहु <break time=".1s"/><phoneme alphabet="x-sampa" ph="@N.J@t_d.4@">aññatra</phoneme> pañcupādānakkhandhehi उपादानन्”ति?
+<break time="1s"/><amazon:breath/>
+“न खो, भिक्खु, 
+<amazon:breath/>
+ तंयेव उपादानं ते<break time=".1s"/> pañcupādānakkhandhā,<amazon:breath/> नापि <phoneme alphabet="x-sampa" ph="@N.J@t_d.4@">aññatra</phoneme> pañcupādānakkhandhehi  उपादानं।
+<break time=".2s"/><amazon:breath/>
+यो खो, भिक्खु, <phoneme alphabet="x-sampa" ph="p@N.tS@.sU">pañcasu</phoneme> उपादानक्खन्धेसु छन्दरागो तं तत्थa उपादानन्”ति।
+</prosody>
+</speak>
+
+
+
+
+
+
+<speak>
+<prosody rate="x-slow">
+<break time="1s"/><amazon:breath/>
+तंयेवa नु खो, भन्ते, उपादानं ते pañcupādānakkhandhā,<amazon:breath/> उदाहु <break time=".1s"/><phoneme alphabet="x-sampa" ph="@N.J@t_d.4@">aññatra</phoneme> pañcupādānakkhandhehi उपादानन्”ति?
+<break time="1s"/><amazon:breath/>
+“न खो, भिक्खु, 
+<amazon:breath/>
+ तंयेव उपादानं ते<break time=".1s"/> pañcupādānakkhandhā,<amazon:breath/> नापि <phoneme alphabet="x-sampa" ph="@N.J@t_d.4@">aññatra</phoneme> pañcupādānakkhandhehi  उपादानं।
+<break time=".2s"/><amazon:breath/>
+यो खो, भिक्खु, <phoneme alphabet="x-sampa" ph="p@N.tS@.sU">pañcasu</phoneme> उपादानक्खन्धेसु छन्दरागो तं तत्थa उपादानन्”ति।
+</prosody>
+</speak>
